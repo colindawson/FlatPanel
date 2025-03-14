@@ -19,8 +19,13 @@ The plan is that this is going to be a full solution for any size scope, however
 
 
 ## Todo list
-- Upload Display board design prototype
-- Upload Mainboard design prototype
-- Upload Micropython source code
+- ~~Upload Display board design prototype~~ (done)
+- ~~Upload Mainboard design prototype~~ (done)
 - Finish designing 3D files for the SpaceCat51
 - Upload 3d models for the SpaceCat51
+- Finalise PCB Layout for Display Board
+- Finalise PCB Layout for Mainboard
+- Figure out display controls for manual mode
+- Create micropython source oode for Pico
+- Upgrade MicroPython code to support Pico W, for Web access
+- Upgrade MicroPyton code to implement ASCOM Alpaca support
