@@ -22,6 +22,7 @@ The plan is that this is going to be a full solution for any size scope, however
 - ~~Upload Display board design prototype~~ (done)
 - ~~Upload Mainboard design prototype~~ (done)
 - Finish designing 3D files for the SpaceCat51
+  ![3D Design Progress](3D%20Models/FlatPanelDesignProgress.png)
 - Upload 3d models for the SpaceCat51
 - Finalise PCB Layout for Display Board
 - Finalise PCB Layout for Mainboard
