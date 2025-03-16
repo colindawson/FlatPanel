@@ -17,6 +17,10 @@ Above is the fully list of features that I'm planning.  Some of the features wil
 
 The plan is that this is going to be a full solution for any size scope, however, my initial project is based on creating a Panel for my SpaceCat 51 Scope.   Once that is working, I'll be looking at how to modify the project to work with my Meade LX-90.
 
+## Discord
+
+[cjdSkunkWorks/FlatPanel](https://discord.com/channels/800391513091211284/1350925191181631498)
+
 
 ## Todo list
 - ~~Upload Display board design prototype~~ (done)
